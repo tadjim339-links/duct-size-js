@@ -1,0 +1,1 @@
+{"name":"duct-size-js","version":"1.0.0","description":"Equal-friction round duct sizing, velocity and rectangular equivalents in plain JavaScript","main":"index.js","scripts":{"test":"node test.js"},"license":"MIT","homepage":"https://ductsizingcalculator.com/"}
